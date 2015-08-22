@@ -1,0 +1,25 @@
+body{
+	width:500px;
+}
+
+#explain-content{
+    padding:15px;
+}
+#explain-title{
+    font-style: italic;
+    color: grey;
+}
+
+#explain-footer{
+    font-size: .9em;
+    opacity: .7;
+}
+
+#explain-footer:hover{
+    opacity: 1;
+}
+
+#explain-ccLicense{
+    float: left;
+    padding: 8px;
+}
